@@ -7,6 +7,13 @@ export const HeroSection = () => {
       className="relative min-h-screen flex flex-col items-center justify-center px-4"
     >
       <div className="container max-w-4xl mx-auto text-center z-10">
+        <div className="flex items-center justify-center mt-2 mb-10">
+        <img
+          src="/projects/profile.jpg"
+          alt="Profile"
+          className="w-50 h-50 rounded-full object-cover"
+        />
+        </div>
         <div className="space-y-6">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
             <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
@@ -22,7 +29,7 @@ export const HeroSection = () => {
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
             I engineer reliable, efficient, and automated systems that drive industrial performance.
-Specializing in machine development, factory maintenance, and automation, I deliver solutions that reduce downtime and enhance productivity in manufacturing environments.
+            Specializing in machine development, factory maintenance, and automation, I deliver solutions that reduce downtime and enhance productivity in manufacturing environments.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">

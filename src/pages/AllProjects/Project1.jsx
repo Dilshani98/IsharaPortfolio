@@ -45,7 +45,6 @@ export const Project1 = () => {
                                     development, robotics, and maintenance strategies to stay ahead in
                                     the rapidly evolving world of industrial engineering.
                                 </p>
-
                                 <div
                                     className="group bg-card rounded-lg overflow-hidden shadow-xs card-hover"
                                 >
