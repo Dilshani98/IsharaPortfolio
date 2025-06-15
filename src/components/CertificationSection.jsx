@@ -104,7 +104,7 @@ export const CertificationSection = () => {
                 <p key={index}>{line}</p>
               ))}
             </div>
-            <div className="inline-flex items-center justify-center group bg-card rounded-lg shadow-xs card-hover max-w-[1500px] max-h-[600px] min-w-[200px] min-h-[200px] max-w-full max-h-full object-contain">
+            <div className="inline-flex items-center justify-center group bg-card rounded-lg shadow-xs card-hover max-w-[500px] max-h-[600px] min-w-[500px] min-h-[300px]">
               <img
                 src={modalData.imageUrl}
                 alt={"1 Ton Reactor Plant"}
