@@ -5,8 +5,7 @@ export const AboutSection = () => {
 
  const handleDownload = () => {
 
-    const FileURL = "https://www.canva.com/design/DAGpSimACOI/UET1XjlMznAOT43DR-s2Eg/edit?utm_content=DAGpSimACOI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton";
-
+    const FileURL = "https://www.canva.com/design/DAGqTVsPD5I/0YzSsS9BBgr59V5-TdTIGA/edit?utm_content=DAGqTVsPD5I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
     const fileName = FileURL.split("/").pop();
     saveAs(FileURL, fileName);
 
