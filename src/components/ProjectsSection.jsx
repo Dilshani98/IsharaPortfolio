@@ -1,4 +1,5 @@
-import { ArrowRight, ExternalLink, Github } from "lucide-react";
+import { ArrowRight, ExternalLink, Github, Home, Link } from "lucide-react";
+import { IoLogOutOutline } from "react-icons/io5";
 
 const projects = [
   {
@@ -7,7 +8,7 @@ const projects = [
     description: "1-ton polymer binder reactor plant, including reactor with limpet coil, monomer and catalyst vessels, heat exchanger, steam lines, and electrical layout—achieving improved energy efficiency, faster processing, and enhanced operational control.A beautiful landing page app using React and Tailwind.",
     image: "/projects/Plant.png",
     tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "#",
+    demoUrl: "project1",
     githubUrl: "#",
   },
   {
@@ -17,7 +18,7 @@ const projects = [
       "A semi-automatic powder packaging machine with a screw conveyor, PLC control system, and conveyor belt—enhancing packaging efficiency and reducing manual labor by 50%.",
     image: "/projects/project2.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "#",
+    demoUrl: "project2",
     githubUrl: "#",
   },
   {
@@ -27,16 +28,16 @@ const projects = [
       "A high-efficiency binder strainer system to filter out impurities and improve material flow—reducing clogging, minimizing manual intervention, and enhancing overall process reliability and energy efficiency.",
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
+    demoUrl: "project3",
     githubUrl: "#",
   },
   {
     id: 4,
     title: "Powder Coating Plant",
-    description:"A complete powder coating plant, including spray booth, curing oven, and air handling systems. The setup was optimized for airflow, energy efficiency, and material utilization—resulting in improved coating quality and production throughput.",
+    description: "A complete powder coating plant, including spray booth, curing oven, and air handling systems. The setup was optimized for airflow, energy efficiency, and material utilization—resulting in improved coating quality and production throughput.",
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
+    demoUrl: "project4",
     githubUrl: "#",
   },
 ];
@@ -85,17 +86,9 @@ export const ProjectsSection = () => {
                   <div className="flex space-x-3">
                     <a
                       href={project.demoUrl}
-                      target="_blank"
                       className="text-foreground/80 hover:text-primary transition-colors duration-300"
                     >
-                      <ExternalLink size={20} />
-                    </a>
-                    <a
-                      href={project.githubUrl}
-                      target="_blank"
-                      className="text-foreground/80 hover:text-primary transition-colors duration-300"
-                    >
-                      <Github size={20} />
+                      <IoLogOutOutline size={30}/>
                     </a>
                   </div>
                 </div>
