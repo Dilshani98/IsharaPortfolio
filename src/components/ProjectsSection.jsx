@@ -16,7 +16,7 @@ const projects = [
     title: " Powder Packaging Machine",
     description:
       "A semi-automatic powder packaging machine with a screw conveyor, PLC control system, and conveyor belt—enhancing packaging efficiency and reducing manual labor by 50%.",
-    image: "/projects/project2.png",
+    image: "/projects/blank.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
     demoUrl: "project2",
     githubUrl: "#",
@@ -26,7 +26,7 @@ const projects = [
     title: "Binder Strainer System",
     description:
       "A high-efficiency binder strainer system to filter out impurities and improve material flow—reducing clogging, minimizing manual intervention, and enhancing overall process reliability and energy efficiency.",
-    image: "/projects/project3.png",
+    image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
     demoUrl: "project3",
     githubUrl: "#",
@@ -35,7 +35,7 @@ const projects = [
     id: 4,
     title: "Powder Coating Plant",
     description: "A complete powder coating plant, including spray booth, curing oven, and air handling systems. The setup was optimized for airflow, energy efficiency, and material utilization—resulting in improved coating quality and production throughput.",
-    image: "/projects/project3.png",
+    image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
     demoUrl: "project4",
     githubUrl: "#",

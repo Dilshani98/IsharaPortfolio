@@ -9,29 +9,43 @@ const certificates = [
     id: 1,
     title: "HVAC Certificate",
     description:
-      "Designing of HVAC Systems,\n Basic Concepts of HVAC, \n Psychrometric and Psychrometric Processes used in HVAC, \n Cooling Load Calculation (MANUAL), \nCooling Load Calculation (E-20 EXCEL FORM), \n Cooling Load Calculation (HAP Software), \n Read and Analyze Building Layouts, incl",
+      "The Become an HVAC PRO: The Ultimate HVAC Guide course delivers a professional-level introduction to HVAC system design from foundational theory to advanced application. It begins with HVAC basics—laws of thermodynamics, refrigerants, psychrometry, and the vapor-compression cycle—then moves into manual and software-based cooling load calculations including HAP and custom spreadsheets. Learners also cover duct design (both manual and McQuay software), AHU components, air filters, and air terminals. Practical skills such as analyzing building layouts, sizing equipment, and completing sample HVAC projects are reinforced through animations and downloadable resources. The course emphasizes real-world application, preparing participants to design HVAC systems for residential and commercial buildings",
     image: "/certificates/hvac.jpg",
   },
   {
     id: 2,
     title: "LEAN SIX SIGMA YELLOW BELT CERTIFICATION",
     description:
-      "A semi-automatic powder packaging machine with a screw conveyor, PLC control system, and conveyor belt—enhancing packaging efficiency and reducing manual labor by 50%.",
+      "The course provides a comprehensive introduction to Lean Six Sigma methodology at the Yellow Belt level. It covers key DMAIC phases, focusing on process improvement techniques for service-based industries. Topics include problem definition, root cause analysis, data collection, and statistical tools using Minitab. The course also guides learners through a complete Six Sigma project with real-world data. It emphasizes practical application, certification readiness, and the use of Lean tools for quality and efficiency improvement.",
     image: "/certificates/sixsigma.png",
   },
   {
     id: 3,
-    title: "Certificate 3",
+    title: "Advanced Diploma in Electrical Design Engineering",
     description:
-      "A high-efficiency binder strainer system to filter out impurities and improve material flow—reducing clogging, minimizing manual intervention, and enhancing overall process reliability and energy efficiency.",
-    image: "/certificates/project3.png",
+      "The course covers advanced concepts in electrical design engineering for industrial and infrastructure projects. It includes load estimation, cable sizing, and the preparation of single-line diagrams. Key topics include lighting design, earthing systems, and lightning protection. The course also teaches system analysis such as fault calculations and relay coordination using ETAP software. It emphasizes practical design skills, equipment selection, and industry-standard documentation.",
+    image: "/certificates/electrical.png",
   },
   {
     id: 4,
-    title: "Certificate 4",
+    title: "The Complete Course in Water and Wastewater Treatment",
     description:
-      "A complete powder coating plant, including spray booth, curing oven, and air handling systems. The setup was optimized for airflow, energy efficiency, and material utilization—resulting in improved coating quality and production throughput.",
-    image: "/certificates/project3.png",
+      "The course covers the complete process of water and wastewater treatment, from basic principles to advanced technologies. It includes topics such as water quality, coagulation, sedimentation, filtration, and disinfection methods. Advanced treatment methods like reverse osmosis, desalination, and various sewage treatment technologies (SBR, MBR, MBBR, etc.) are also discussed. Learners gain insight into both municipal and industrial treatment systems, including effluent and sludge management. The course emphasizes practical understanding, environmental safety, and compliance with treatment standards.",
+    image: "/certificates/water.png",
+  },
+  {
+    id: 5,
+    title: "Geometric Dimensioning and Tolerancing (GD&T) Basics",
+    description:
+      "The course provides a structured introduction to Geometric Dimensioning and Tolerancing (GD&T), progressing from basic engineering drawing principles to advanced GD&T applications. It explains the need for GD&T over traditional tolerance methods and teaches the use of datums, virtual conditions, and bonus tolerances. Participants learn the full suite of GD&T symbols for form (e.g., straightness, flatness), orientation (e.g., parallelism, perpendicularity), location (e.g., position), runout, and profile controls. The curriculum includes practical interpretation of feature control frames, datum feature modifiers, and hands-on exercises with quizzes to reinforce learning. By the end, learners are equipped to apply ASME Y14.5 standards to communicate precise design intent for manufacturability and inspection. ",
+    image: "/certificates/gd&t.png",
+  },
+  {
+    id: 6,
+    title: "Aspen Plus V11 Masterclass: Process Simulation",
+    description:
+      "The course guides learners from beginner to advanced proficiency in Aspen Plus V11 for steady-state chemical process simulation. It starts with software fundamentals—GUI navigation, fluid package setup, unit definitions, and thermodynamic property methods. Participants model a variety of unit operations, including flash and detailed distillation columns, reactors (PFR, CSTR, fluidized bed), piping networks, heat exchangers, and solids handling systems. Advanced topics include sensitivity analysis, equipment rating, process optimization, and troubleshooting techniques. By the end, learners gain practical skills to design, analyze, optimize, and debug complex chemical processes using Aspen Plus. ",
+    image: "/certificates/aspen.png",
   },
 ];
 
