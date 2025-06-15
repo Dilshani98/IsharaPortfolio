@@ -38,7 +38,6 @@ export const Project1 = () => {
                                 <p className="text-muted-foreground">
                                    ............................................................................
                                 </p>
-
                                 <div
                                     className="group bg-card rounded-lg overflow-hidden shadow-xs card-hover"
                                 >
