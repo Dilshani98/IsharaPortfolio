@@ -1,4 +1,5 @@
 import {
+  Facebook,
   Instagram,
   Linkedin,
   Mail,
@@ -11,15 +12,24 @@ import {
 import { cn } from "@/lib/utils";
 import { useToast } from "@/hooks/use-toast";
 import { useState } from "react";
+import { useRef } from "react";
+import emailjs from "@emailjs/browser";
 
 export const ContactSection = () => {
   const { toast } = useToast();
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const form = useRef();
+  const serviceID = "service_95aioic";
+  const templateID = "template_ttveflp";
+  const publicKey = "FKyQabJeelpOETqQ-";
+
 
   const handleSubmit = (e) => {
     e.preventDefault();
 
     setIsSubmitting(true);
+
+    emailjs.sendForm(serviceID, templateID, form.current, publicKey);
 
     setTimeout(() => {
       toast({
@@ -93,17 +103,11 @@ export const ContactSection = () => {
             <div className="pt-8">
               <h4 className="font-medium mb-4"> Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
-                <a href="#" target="_blank">
+                <a href="https://www.linkedin.com/in/ishara-sakalasooriya-9101b019a/" target="_blank">
+                  <Facebook />
+                </a>
+                <a href="https://www.linkedin.com/in/ishara-sakalasooriya-9101b019a/" target="_blank">
                   <Linkedin />
-                </a>
-                <a href="#" target="_blank">
-                  <Twitter />
-                </a>
-                <a href="#" target="_blank">
-                  <Instagram />
-                </a>
-                <a href="#" target="_blank">
-                  <Twitch />
                 </a>
               </div>
             </div>
@@ -115,7 +119,7 @@ export const ContactSection = () => {
           >
             <h3 className="text-2xl font-semibold mb-6"> Send a Message</h3>
 
-            <form className="space-y-6">
+            <form ref={form} className="space-y-6">
               <div>
                 <label
                   htmlFor="name"
