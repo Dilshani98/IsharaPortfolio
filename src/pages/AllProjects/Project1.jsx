@@ -32,18 +32,11 @@ export const Project1 = () => {
                                 </h3>
 
                                 <p className="text-muted-foreground">
-                                    Highly motivated Mechanical Engineer with expertise in industrial automation, preventive maintenance, mechanical troubleshooting,
-                                    and equipment reliability for critical plant systems, seeking to leverage skills to revolutionize the industry and improve working
-                                    environments.
-
+                                    ............................................................................
                                 </p>
 
                                 <p className="text-muted-foreground">
-                                    I'm passionate about designing smart, reliable mechanical systems
-                                    and developing innovative automation solutions that keep factories
-                                    running efficiently. I’m always learning new technologies in machine
-                                    development, robotics, and maintenance strategies to stay ahead in
-                                    the rapidly evolving world of industrial engineering.
+                                   ............................................................................
                                 </p>
 
                                 <div
