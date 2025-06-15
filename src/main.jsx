@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <ThemeToggle />
     {/* Background Effects */}
     <StarBackground />
-    <App />
+    <App/>
     <Footer />
   </React.StrictMode>,
 )
