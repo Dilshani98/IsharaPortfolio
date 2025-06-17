@@ -1,4 +1,4 @@
-import { Briefcase, Code, User } from "lucide-react";
+import {  BotIcon, WrenchIcon, CircuitBoardIcon, HammerIcon, BoltIcon, ChartLineIcon, BrainIcon } from "lucide-react";
 import { saveAs } from "file-saver";
 
 export const AboutSection = () => {
@@ -99,7 +99,7 @@ adaptable in dynamic, technology-driven environments.
             <div className="gradient-border p-6 card-hover">
               <div className="flex items-start gap-4">
                 <div className="p-3 rounded-full bg-primary/10">
-                  <Code className="h-6 w-6 text-primary" />
+                  <WrenchIcon className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
                   <h4 className="font-semibold text-lg"> Mechanical Design & Simulation</h4>
@@ -120,7 +120,7 @@ adaptable in dynamic, technology-driven environments.
             <div className="gradient-border p-6 card-hover">
               <div className="flex items-start gap-4">
                 <div className="p-3 rounded-full bg-primary/10">
-                  <User className="h-6 w-6 text-primary" />
+                  <BotIcon className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Automation & Control Systems</h4>
@@ -143,7 +143,7 @@ adaptable in dynamic, technology-driven environments.
             <div className="gradient-border p-6 card-hover">
               <div className="flex items-start gap-4">
                 <div className="p-3 rounded-full bg-primary/10">
-                  <User className="h-6 w-6 text-primary" />
+                  <CircuitBoardIcon className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Mechatronics & Robotics</h4>
@@ -162,7 +162,7 @@ adaptable in dynamic, technology-driven environments.
             <div className="gradient-border p-6 card-hover">
               <div className="flex items-start gap-4">
                 <div className="p-3 rounded-full bg-primary/10">
-                  <User className="h-6 w-6 text-primary" />
+                  <HammerIcon className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Workshop Skills</h4>
@@ -185,7 +185,7 @@ adaptable in dynamic, technology-driven environments.
             <div className="gradient-border p-6 card-hover">
               <div className="flex items-start gap-4">
                 <div className="p-3 rounded-full bg-primary/10">
-                  <User className="h-6 w-6 text-primary" />
+                  <BoltIcon className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Maintenance Skills</h4>
@@ -206,7 +206,7 @@ Pump System Maintenance<br />
             <div className="gradient-border p-6 card-hover">
               <div className="flex items-start gap-4">
                 <div className="p-3 rounded-full bg-primary/10">
-                  <User className="h-6 w-6 text-primary" />
+                  <ChartLineIcon className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Project Management & Process Improvement</h4>
@@ -227,7 +227,7 @@ Pump System Maintenance<br />
             <div className="gradient-border p-6 card-hover">
               <div className="flex items-start gap-4">
                 <div className="p-3 rounded-full bg-primary/10">
-                  <Briefcase className="h-6 w-6 text-primary" />
+                  <BrainIcon className="h-6 w-6 text-primary" />
                 </div>
 
                 <div className="text-left">
