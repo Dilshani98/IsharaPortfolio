@@ -15,7 +15,7 @@ export const Project1 = () => {
                     <div className="container mx-auto max-w-5xl">
                         <div className="flex space-x-3">
                             <a
-                                href={"/#projects"}
+                                href={"/projects"}
                                 className="text-foreground/80 hover:text-primary transition-colors duration-300"
                             >
                                 <IoArrowBackCircleOutline size={30} />
