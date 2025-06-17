@@ -38,6 +38,45 @@ export const AboutSection = () => {
               running efficiently. I’m always learning new technologies in machine
               development, robotics, and maintenance strategies to stay ahead in
               the rapidly evolving world of industrial engineering.
+               </p>
+
+            <p className="text-muted-foreground">
+
+
+              I hold a B.Sc. Degree in Mechanical Engineering from the University of Moratuwa, specializing in the Mechatronics Engineering stream. 
+              This academic foundation has equipped me with a balanced skill set across mechanical systems, electronics, control, and automation technologies.
+              </p>
+            <p className="text-muted-foreground">    
+
+My core strength lies in machine design, supported by strong command of CAD tools such as SolidWorks and AutoCAD, and FEA simulation using ANSYS. I 
+am also experienced in Aspen Plus/PRO for process modeling and AutoPIPE for piping stress analysis—enabling me to design, simulate, and optimize mechanical
+systems from concept to execution.
+</p>
+
+            <p className="text-muted-foreground">
+
+  
+
+In the field of industrial automation, I have developed and programmed PLCs using platforms including Allen-Bradley, Siemens, Delta, and Mitsubishi, 
+with practical integration using Factory I/O simulation. I am skilled in control panel design, electrical wiring simulation, and electrical panel layout—bridging mechanical and electrical domains. My work also involves IoT systems, combining sensors and controllers for smart monitoring and control.
+
+</p>
+My specialization in mechatronics has expanded into robotics and embedded systems, where I’ve built and programmed Arduino-based systems and 
+ logic in Python and C++ (OOP). These skills support my ability to create intelligent, real-world automation solutions that blend mechanical and 
+ software domains.
+            <p className="text-muted-foreground">
+
+On the workshop and production side, I bring practical experience in sheet metal fabrication, welding, lathe operations, and CNC programming—skills 
+that allow me to transition smoothly from digital models to physical prototypes and production. I also have direct experience maintaining industrial systems 
+such as steam boilers, air compressors, reactor vessels, agitators, and pump systems.
+
+Additionally, I bring strong project management skills with proficiency in Primavera P6, and a working knowledge of Lean Manufacturing and Six Sigma
+ (Yellow Belt certified) principles. I am well-versed in preparing P&ID diagrams and technical documentation using the Microsoft Office Suite.
+ </p>
+            <p className="text-muted-foreground">
+
+Above all, I am a fast learner, with the ability to quickly absorb new technologies and apply them effectively to engineering challenges—making me 
+adaptable in dynamic, technology-driven environments.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -63,12 +102,17 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Machine Design</h4>
+                  <h4 className="font-semibold text-lg"> Mechanical Design & Simulation</h4>
                   <p className="text-muted-foreground">
-                    Skilled in machine design using advanced CAD tools, with experience in creating
-                    precise 2D and 3D models for custom industrial equipment. Proficient in conducting
-                    FEA simulations to validate mechanical strength, optimize component performance, and
-                    ensure design reliability under real-world conditions.
+                   
+
+                              CAD Drawing (SolidWorks, AutoCAD)<br />
+
+                                FEA Simulation (ANSYS)<br />
+
+                              Piping Design (AutoPIPE)<br />
+
+                              Process Simulation (Aspen Plus/PRO)<br />
                   </p>
                 </div>
               </div>
@@ -79,12 +123,103 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Automation</h4>
+                  <h4 className="font-semibold text-lg">Automation & Control Systems</h4>
                   <p className="text-muted-foreground">
-                    Experienced in industrial automation, with hands-on expertise in PLC programming,
-                    control system simulation, and the development of IoT-based monitoring solutions.
-                    Skilled in integrating automation with real-time data visualization to improve process
-                    control, efficiency, and system reliability.
+                    PLC Programming (Allen-Bradley, Siemens, Delta, Mitsubishi)<br />
+
+                    Factory I/O Simulation<br />
+
+                            Electrical Panel Design<br />
+
+                        Electrical Wiring Simulation<br />
+
+                        Control Panel Design<br />
+
+                          P&ID Diagrams
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="gradient-border p-6 card-hover">
+              <div className="flex items-start gap-4">
+                <div className="p-3 rounded-full bg-primary/10">
+                  <User className="h-6 w-6 text-primary" />
+                </div>
+                <div className="text-left">
+                  <h4 className="font-semibold text-lg">Mechatronics & Robotics</h4>
+                  <p className="text-muted-foreground">
+                    Arduino Robotics Programming<br />
+
+                            IoT Systems<br />
+
+                              Python (OOP), C++ (OOP)<br />
+
+                            Embedded Systems Integration<br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="gradient-border p-6 card-hover">
+              <div className="flex items-start gap-4">
+                <div className="p-3 rounded-full bg-primary/10">
+                  <User className="h-6 w-6 text-primary" />
+                </div>
+                <div className="text-left">
+                  <h4 className="font-semibold text-lg">Workshop Skills</h4>
+                  <p className="text-muted-foreground">
+                    Welding - Arch & TIG<br />
+
+                    Lathe Machine<br />
+
+                            Sheet Metal Fabrication<br />
+
+                        Electrical Wiring Simulation<br />
+
+                        CNC Programming<br />
+
+                          
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="gradient-border p-6 card-hover">
+              <div className="flex items-start gap-4">
+                <div className="p-3 rounded-full bg-primary/10">
+                  <User className="h-6 w-6 text-primary" />
+                </div>
+                <div className="text-left">
+                  <h4 className="font-semibold text-lg">Maintenance Skills</h4>
+                  <p className="text-muted-foreground">
+                    Steam Boiler Maintenance & Service - Furnace Oil<br />
+
+Air Compressor Service - Screw Type<br />
+
+Pressure Vessel Maintenance<br />
+
+Agitator System Maintenance - 3 Phase Motor & Gear box<br />
+
+Pump System Maintenance<br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="gradient-border p-6 card-hover">
+              <div className="flex items-start gap-4">
+                <div className="p-3 rounded-full bg-primary/10">
+                  <User className="h-6 w-6 text-primary" />
+                </div>
+                <div className="text-left">
+                  <h4 className="font-semibold text-lg">Project Management & Process Improvement</h4>
+                  <p className="text-muted-foreground">
+                    Primavera P6 (Project Planning & Scheduling)<br />
+
+                    Lean Manufacturing<br />
+
+                    Six Sigma Yellow Belt<br />
+
+                    Microsoft Office Suite<br />
+
+
                   </p>
                 </div>
               </div>
@@ -96,12 +231,11 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">Adaptability & Continuous Learning</h4>
                   <p className="text-muted-foreground">
-                    Experienced in managing engineering projects from concept to commissioning, including equipment
-                    installation, team coordination, and timeline tracking. Skilled in resource planning, cross-functional
-                    collaboration, and ensuring deliverables align with safety, quality,
-                    and performance standards—driving projects to successful completion within budget and schedule.
+                    Fast Learner with Quick Technology Adaptation<br />
+
+                    Strong Application of New Tools in Real-world Engineering<br />
                   </p>
                 </div>
               </div>
