@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { Navbar } from "../components/Navbar";
 import { ThemeToggle } from "../components/ThemeToggle";
 import { StarBackground } from "@/components/StarBackground";
@@ -10,6 +11,17 @@ import { Footer } from "../components/Footer";
 import { CertificationSection } from "../components/CertificationSection";
 
 export const Home = () => {
+  useEffect(() => {
+    if (window.location.hash === "#projects") {
+      const el = document.getElementById("projects");
+      if (el) {
+        setTimeout(() => {
+          el.scrollIntoView({ behavior: "smooth" });
+        }, 100);
+      }
+    }
+  }, []);
+
   return (
     <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
       {/* Navbar */}
@@ -19,8 +31,8 @@ export const Home = () => {
         <HeroSection />
         <AboutSection />
         <SkillsSection />
-        <ProjectsSection />
-        <CertificationSection/>
+        <ProjectsSection />  {/* Must have id="projects" */}
+        <CertificationSection />
         <ContactSection />
       </main>
     </div>
