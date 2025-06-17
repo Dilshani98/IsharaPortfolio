@@ -102,7 +102,7 @@ adaptable in dynamic, technology-driven environments.
                   <WrenchIcon className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Mechanical Design & Simulation</h4>
+                  <h4 className="font-semibold text-lg">Mechanical Design & Simulation</h4>
                   <p className="text-muted-foreground">
                    
 
