@@ -154,7 +154,7 @@ adaptable in dynamic, technology-driven environments.
 
                               Python (OOP), C++ (OOP)<br />
 
-                            Embedded Systems Integration<br />
+                            Embedded Systems Integration <br />
                   </p>
                 </div>
               </div>
