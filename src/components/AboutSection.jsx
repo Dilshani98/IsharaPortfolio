@@ -10,6 +10,13 @@ export const AboutSection = () => {
     saveAs(FileURL, fileName);
 
   }
+  const googleDownload = () => {
+
+    const FileURL = "https://drive.google.com/drive/folders/1IpXZ60N29oUpvXe2UR5cpVC5dOipjZga?usp=sharing"
+    const fileName = FileURL.split("/").pop();
+    saveAs(FileURL, fileName);
+
+  }
 
   return (
     <section id="about" className="py-24 px-4 relative">
@@ -90,7 +97,14 @@ adaptable in dynamic, technology-driven environments.
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
                 onClick={() => handleDownload()}
               >
-                Download CV
+                Download CV - Canva
+              </a>
+              <a
+                href=""
+                className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+                onClick={() => googleDownload()}
+              >
+                Download CV - Google Drive
               </a>
             </div>
           </div>
