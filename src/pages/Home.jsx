@@ -16,7 +16,7 @@ export const Home = () => {
       const el = document.getElementById("projects");
       if (el) {
         setTimeout(() => {
-          el.scrollIntoView({ behavior:  "auto" });
+          el.scrollIntoView({ behavior:  "smooth" });
         }, 100);
       }
     }
