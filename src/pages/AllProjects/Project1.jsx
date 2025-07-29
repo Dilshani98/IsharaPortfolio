@@ -39,7 +39,7 @@ export const Project1 = () => {
                                    ............................................................................
                                 </p>
                                 <div
-                                    className="group bg-card rounded-lg overflow-hidden shadow-xs card-hover"
+                                    className=" w-32 h-32 group bg-card rounded-lg overflow-hidden shadow-xs card-hover"
                                 >
                                     <div className="w-32 h-32 overflow-hidden">
                                         <img
