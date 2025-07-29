@@ -44,7 +44,7 @@ const projects = [
     id: 5,
     title: " Powder Coating Plant",
     description:
-      "A semi-automatic powder packaging machine with a screw conveyor, PLC control system, and conveyor belt—enhancing packaging efficiency and reducing manual labor by 50%.",
+      "Designed and commissioned a powder coating plant to provide durable, high-quality surface finishing for manufactured components. The plant includes preparation, spraying booths, curing ovens, and material handling systems, ensuring efficient workflow and consistent coating quality.",
     image: "/projects/blank.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
     demoUrl: "project1 copy",
