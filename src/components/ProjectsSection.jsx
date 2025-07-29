@@ -5,7 +5,7 @@ const projects = [
   {
     id: 1,
     title: "1 Ton Reactor Plant",
-    description: "1-ton polymer binder reactor plant, including reactor with limpet coil, monomer and catalyst vessels, heat exchanger, steam lines, and electrical layout—achieving improved energy efficiency, faster processing, and enhanced operational control.A beautiful landing page app using React and Tailwind.",
+    description: "1-ton polymer binder reactor plant, including reactor with limpet coil, monomer and catalyst vessels, heat exchanger, steam lines, and electrical layout—achieving improved energy efficiency, faster processing, and enhanced operational control.",
     image: "/projects/Plant.png",
     tags: ["React", "TailwindCSS", "Supabase"],
     demoUrl: "project1",
