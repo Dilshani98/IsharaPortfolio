@@ -28,7 +28,7 @@ export const Project1 = () => {
                         <div className="grid  items-center">
                             <div className="space-y-6">
                                 <h3 className="text-2xl font-semibold">
-                                    Community Project
+                                    Reactor Project
                                 </h3>
 
                                 <p className="text-muted-foreground">
