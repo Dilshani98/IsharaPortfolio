@@ -4,7 +4,7 @@ import { IoLogOutOutline } from "react-icons/io5";
 const projects = [
   {
     id: 1,
-    title: "1 Ton Reactor Plant....",
+    title: "1 Ton Reactor Plant",
     description: "1-ton polymer binder reactor plant, including reactor with limpet coil, monomer and catalyst vessels, heat exchanger, steam lines, and electrical layout—achieving improved energy efficiency, faster processing, and enhanced operational control.A beautiful landing page app using React and Tailwind.",
     image: "/projects/Plant.png",
     tags: ["React", "TailwindCSS", "Supabase"],
@@ -13,7 +13,7 @@ const projects = [
   },
   {
     id: 2,
-    title: " Powder Packaging Machine",
+    title: " Powder Packaging Machine (Screw Conveyor)",
     description:
       "A semi-automatic powder packaging machine with a screw conveyor, PLC control system, and conveyor belt—enhancing packaging efficiency and reducing manual labor by 50%.",
     image: "/projects/blank.png",
@@ -33,7 +33,7 @@ const projects = [
   },
   {
     id: 4,
-    title: "Powder Coating Plant",
+    title: "Wastewater Treatment Plant",
     description: "A complete powder coating plant, including spray booth, curing oven, and air handling systems. The setup was optimized for airflow, energy efficiency, and material utilization—resulting in improved coating quality and production throughput.",
     image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
@@ -42,7 +42,7 @@ const projects = [
   },
   {
     id: 5,
-    title: " Powder Packaging Machine",
+    title: " Powder Coating Plant",
     description:
       "A semi-automatic powder packaging machine with a screw conveyor, PLC control system, and conveyor belt—enhancing packaging efficiency and reducing manual labor by 50%.",
     image: "/projects/blank.png",
@@ -52,7 +52,7 @@ const projects = [
   },
   {
     id: 6,
-    title: "Binder Strainer System",
+    title: "IOT Based Machine Monitoring System",
     description:
       "A high-efficiency binder strainer system to filter out impurities and improve material flow—reducing clogging, minimizing manual intervention, and enhancing overall process reliability and energy efficiency.",
     image: "/projects/blank.png",
@@ -62,7 +62,7 @@ const projects = [
   },
   {
     id: 7,
-    title: "Powder Coating Plant",
+    title: "Sheet Metal Cutting Table",
     description: "A complete powder coating plant, including spray booth, curing oven, and air handling systems. The setup was optimized for airflow, energy efficiency, and material utilization—resulting in improved coating quality and production throughput.",
     image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
