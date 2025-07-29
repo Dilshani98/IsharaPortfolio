@@ -47,11 +47,15 @@ export const Project1 = () => {
                                             alt={"1 Ton Reactor Plant"}
                                             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                                         />
+                                        
+                                    </div>
+                                    <div className="h-48 overflow-hidden">
                                         <img
                                             src={"/projects/Plant.png"}
                                             alt={"1 Ton Reactor Plant"}
                                             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                                         />
+                                        
                                     </div>
                                 </div>
                             </div>
