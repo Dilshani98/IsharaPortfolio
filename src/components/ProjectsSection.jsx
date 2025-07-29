@@ -34,7 +34,7 @@ const projects = [
   {
     id: 4,
     title: "Wastewater Treatment Plant",
-    description: "A complete wastewater treatment plant was designed and commissioned for the factory to treat process effluents and meet environmental discharge standards. The system includes equalization, pH adjustment, primary sedimentation, biological treatment (aeration and secondary clarification), and tertiary filtration. Equipment such as pumps, blowers, dosing systems, and control panels were selected based on flow rate and load characteristics. The plant was integrated with automatic level and pH controls for reliable and low-maintenance operation, ensuring consistent treatment efficiency and regulatory compliance.",
+    description: "Designed and commissioned a wastewater treatment plant for the factory, including primary, biological, and tertiary treatment stages. The system ensures efficient effluent treatment and full compliance with environmental regulations.",
     image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
     demoUrl: "project4",
