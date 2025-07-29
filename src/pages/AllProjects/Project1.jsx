@@ -54,7 +54,7 @@ export const Project1 = () => {
                                 <div
                                     className="group bg-card rounded-lg overflow-hidden shadow-xs card-hover"
                                 >
-                                    <div className="h-48 overflow-hidden">
+                                    <div className="h-80 overflow-hidden">
                                         <img
                                             src={"/projects/Plant.png"}
                                             alt={"1 Ton Reactor Plant"}
