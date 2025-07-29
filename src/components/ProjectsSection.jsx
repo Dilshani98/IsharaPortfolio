@@ -54,7 +54,7 @@ const projects = [
     id: 6,
     title: "IOT Based Machine Monitoring System",
     description:
-      "A high-efficiency binder strainer system to filter out impurities and improve material flow—reducing clogging, minimizing manual intervention, and enhancing overall process reliability and energy efficiency.",
+      "Implemented an IoT-based system to monitor real-time performance of sheet metal cutting machines. The system tracks parameters such as run time, downtime, production count, and energy consumption, enabling data-driven maintenance, efficiency optimization, and remote monitoring through a web dashboard.",
     image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
     demoUrl: "project3",
@@ -63,7 +63,7 @@ const projects = [
   {
     id: 7,
     title: "Sheet Metal Cutting Table",
-    description: "A complete powder coating plant, including spray booth, curing oven, and air handling systems. The setup was optimized for airflow, energy efficiency, and material utilization—resulting in improved coating quality and production throughput.",
+    description: "Designed and implemented a precision sheet metal cutting table that optimized raw material utilization, significantly reducing off-cuts and process waste. The solution improved production efficiency and led to annual cost savings exceeding ₹5 million through reduced material loss and better inventory control.",
     image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
     demoUrl: "project4",
