@@ -7,10 +7,10 @@ import { Footer } from "../../components/Footer";
 export const Project1 = () => {
   // Gallery image paths — replace with your actual images
   const galleryImages = [
-    "/projects/Plant.png",
-    "/projects/project1.png",
-    "/projects/project2.png",
-    "/projects/project3.png",
+    "/projects/1.png",
+    "/projects/2.png",
+    "/projects/3.png",
+    "/projects/4.png",
   ];
 
   return (
