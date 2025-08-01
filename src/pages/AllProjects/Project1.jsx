@@ -52,7 +52,7 @@ export const Project1 = () => {
                     key={index}
                     className="group bg-card rounded-lg overflow-hidden shadow-sm"
                   >
-                    <div className="w-120 h-120 overflow-hidden">
+                    <div className="w-250 h-120 overflow-hidden">
                       <img
                         src={src}
                         alt={`Gallery ${index + 1}`}
