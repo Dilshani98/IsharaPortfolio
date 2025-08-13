@@ -69,6 +69,24 @@ const projects = [
     demoUrl: "project4",
     githubUrl: "#",
   },
+  {
+    id: 8,
+    title: "Automated Guided Vehicle (AGV) System",
+    description: "An Autonomous Guided Vehicle (AGV) has been developed to support SriLankan Airlines in transporting tools across airport facilities. Equipped with a LiDAR-based navigation and mapping system, the AGV can autonomously travel up to 1 km while carrying loads of up to 100 kg. It features real-time video output for monitoring and processes environmental data to ensure precise navigation and obstacle avoidance.",
+    image: "/projects/blank.png",
+    tags: ["React", "Node.js", "Stripe"],
+    demoUrl: "projectAGV",
+    githubUrl: "#",
+  },
+  {
+    id: 9,
+    title: "Delta robot",
+    description: "Designed and implemented a precision sheet metal cutting table that optimized raw material utilization, significantly reducing off-cuts and process waste. The solution improved production efficiency and led to annual cost savings exceeding ₹5 million through reduced material loss and better inventory control.",
+    image: "/projects/blank.png",
+    tags: ["React", "Node.js", "Stripe"],
+    demoUrl: "project4",
+    githubUrl: "#",
+  },
 ];
 
 export const ProjectsSection = () => {
