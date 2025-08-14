@@ -37,7 +37,7 @@ const projects = [
     description: "Designed and commissioned a wastewater treatment plant for the factory, including primary, biological, and tertiary treatment stages. The system ensures efficient effluent treatment and full compliance with environmental regulations.",
     image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "project4aaa",
+    demoUrl: "waste",
     githubUrl: "#",
   },
   {
