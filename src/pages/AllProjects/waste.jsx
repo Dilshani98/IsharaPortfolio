@@ -32,19 +32,19 @@ export const Project9 = () => {
 
             {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              Project <span className="text-primary">1</span>
+              Wastewater Treatment Plant  <span className="text-primary">Design & Commissioning</span>
             </h2>
 
             {/* Description & Gallery */}
             <div className="space-y-6">
-              <h3 className="text-2xl font-semibold">Designed and Commissioned Factory Wastewater Treatment Plant</h3>
+              <h3 className="text-2xl font-semibold">Acrylic Binder Factory Water Recycling System</h3>
 
               <p className="text-muted-foreground">
-                A complete wastewater treatment plant was designed and commissioned for the factory to treat process effluents and meet environmental discharge standards. The system includes equalization, pH adjustment, primary sedimentation, biological treatment (aeration and secondary clarification), and tertiary filtration. Equipment such as pumps, blowers, dosing systems, and control panels were selected based on flow rate and load characteristics.
+               Designed and commissioned a wastewater treatment plant for an acrylic binder factory, recycling ~20,000 liters/month for cooling tank use. Included full P&ID design, multi-stage treatment, and motorized agitator system with star-delta starter.
               </p>
 
               <p className="text-muted-foreground">
-                The plant was integrated with automatic level and pH controls for reliable and low-maintenance operation, ensuring consistent treatment efficiency and regulatory compliance.
+                Engineered and commissioned a complete wastewater treatment plant for an acrylic binder production facility, enabling the recycling of approximately 20,000 liters of water per month for use in factory cooling systems. The system comprised a collection tank, clarifier/flocculation tank, sand filter, pH adjustment tank, sludge tank, and aeration system. Designed the full P&ID diagram and integrated a 3-phase motor-driven agitator with a star-delta starter for efficient mixing. This project reduced water consumption costs, promoted sustainable operations, and ensured compliance with environmental standards while maintaining production efficiency.
               </p>
 
               {/* Image Gallery */}

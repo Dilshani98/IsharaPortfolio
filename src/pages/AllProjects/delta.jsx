@@ -30,19 +30,19 @@ export const Project2 = () => {
 
             {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              Delta Robot <span className="text-primary">1</span>
+              Delta Robot <span className="text-primary"> for Automated Candy Sorting</span>
             </h2>
 
             {/* Description & Gallery */}
             <div className="space-y-6">
-              <h3 className="text-2xl font-semibold">Delta Robot</h3>
+              <h3 className="text-2xl font-semibold">Conveyor Integration, IR Sensors, and OpenCV-Based Image Processing</h3>
 
               <p className="text-muted-foreground">
-                --------------------------------------------------------------
+                Designed and built a delta robot system for sorting chocolates and candies. Integrated with a conveyor, IR sensors, and OpenCV-based image processing for precise pick-and-place operations, improving sorting speed and accuracy in confectionery production.
               </p>
 
               <p className="text-muted-foreground">
-                ............................................................................=============
+                Developed a high-speed delta robot system for confectionery production lines, capable of sorting chocolates, candies, and similar products. The setup includes a conveyor belt system, IR sensors, and an OpenCV-powered image processing unit for object detection and classification. Products are picked from the conveyor and placed into designated areas with high precision. This automated solution enhances sorting speed, ensures consistent quality, and reduces manual labor in candy manufacturing plants. The design offers flexibility for different product shapes and sizes, making it adaptable to various confectionery applications.
               </p>
 
               {/* Image Gallery */}

@@ -30,19 +30,19 @@ export const Project1 = () => {
 
             {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              1 Ton Reactor Plant<span className="text-primary">Designing and Commissioned</span>
+             1-Ton Capacity Reactor Plant<span className="text-primary">Design & Commissioning</span>
             </h2>
 
             {/* Description & Gallery */}
             <div className="space-y-6">
-              <h3 className="text-2xl font-semibold">Reactor Project</h3>
+              <h3 className="text-2xl font-semibold">Complete Mechanical Design, Simulation, and Performance Optimization</h3>
 
               <p className="text-muted-foreground">
-                --------------------------------------------------------------
+               Designed and commissioned a 1-ton reactor system with Limpert coil, monomer and catalyst vessels, and heat exchanger. Performed mechanical calculations, FEA simulations, and motor sizing, achieving 30-minute batch time reduction with improved efficiency.
               </p>
 
               <p className="text-muted-foreground">
-                ............................................................................=============
+               Led the full mechanical design and commissioning of a 1-ton capacity reactor plant, including Limpert coil, monomer vessel, catalyst vessel, and integrated heat exchanger. Performed shaft and agitator design with detailed calculations, FEA simulations for structural integrity, and motor power sizing for optimal mixing. The upgraded system reduced batch processing time by 30 minutes compared to the previous plant while enhancing energy efficiency, process stability, and product consistency. Delivered a cost-effective, high-performance solution meeting industrial safety and operational standards.
               </p>
 
               {/* Image Gallery */}

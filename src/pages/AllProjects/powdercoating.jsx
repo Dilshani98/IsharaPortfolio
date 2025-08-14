@@ -30,19 +30,19 @@ export const Project6 = () => {
 
             {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              Project <span className="text-primary">1</span>
+              Powder Coating Plant  <span className="text-primary">Design & Commissioning</span>
             </h2>
 
             {/* Description & Gallery */}
             <div className="space-y-6">
-              <h3 className="text-2xl font-semibold">Reactor Project</h3>
+              <h3 className="text-2xl font-semibold">Booth, Gas-Powered Oven, and Cyclone System Integration</h3>
 
               <p className="text-muted-foreground">
-                --------------------------------------------------------------
+                Designed and commissioned a complete powder coating plant with booth, gas-powered ceramic oven, and cyclone system. Improved production quality, enhanced operational reliability, and reduced labor and outsourcing costs.
               </p>
 
               <p className="text-muted-foreground">
-                ............................................................................=============
+                Led the design and commissioning of a full-scale powder coating plant, including a coating booth, cyclone collection system, and a gas-powered ceramic oven with five burners. The plant ensures consistent coating quality, improved process reliability, and optimized energy usage. By automating key processes, the system reduced labor requirements and eliminated outsourcing dependency. Responsibilities included mechanical layout, equipment selection, process integration, and operational testing. This project demonstrates expertise in industrial plant design, process optimization, and cost-efficient production system implementation.
               </p>
 
               {/* Image Gallery */}

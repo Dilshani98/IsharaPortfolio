@@ -30,19 +30,19 @@ export const Project7 = () => {
 
             {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              Project <span className="text-primary">1</span>
+              Binder Strainer System  <span className="text-primary">Design & Implementation</span>
             </h2>
 
             {/* Description & Gallery */}
             <div className="space-y-6">
-              <h3 className="text-2xl font-semibold">Reactor Project</h3>
+              <h3 className="text-2xl font-semibold">Vibration Motor Integration for Efficient Product Unloading</h3>
 
               <p className="text-muted-foreground">
-                --------------------------------------------------------------
+                Designed and implemented a binder strainer system with a vibration motor and improved design, reducing unloading time by 45%, minimizing human intervention, and enhancing product quality in polymer production processes.
               </p>
 
               <p className="text-muted-foreground">
-                ............................................................................=============
+                Developed a high-efficiency binder strainer system featuring a vibration motor and optimized structural design to improve material unloading. The upgraded system reduced manual handling and unloading time by 45%, while ensuring consistent product quality. Key responsibilities included mechanical design, vibration motor integration, and process optimization for smoother, faster production output. This solution not only increased operational efficiency but also minimized labor requirements and human error, delivering a reliable and high-quality polymer production process.
               </p>
 
               {/* Image Gallery */}

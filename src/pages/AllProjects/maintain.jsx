@@ -30,19 +30,19 @@ export const Project4 = () => {
 
             {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              Project <span className="text-primary">1</span>
+              Industrial Machinery Maintenance & Troubleshooting Expertise <span className="text-primary"></span>
             </h2>
 
             {/* Description & Gallery */}
             <div className="space-y-6">
-              <h3 className="text-2xl font-semibold">Reactor Project</h3>
+              <h3 className="text-2xl font-semibold">Comprehensive Mechanical, Electrical, and Control Systems Skills</h3>
 
               <p className="text-muted-foreground">
-                --------------------------------------------------------------
+                Extensive hands-on experience in maintaining and troubleshooting industrial machinery, including electrical control panels, cyclones, boilers, pumps, conveyors, agitators, gearboxes, VFDs, generators, and air compressors, ensuring high plant reliability and minimal downtime.
               </p>
 
               <p className="text-muted-foreground">
-                ............................................................................=============
+                Proven expertise in the maintenance, troubleshooting, and optimization of diverse industrial systems. Skilled in electrical control panel design and upkeep, furnace oil boiler operation, industrial pump servicing, conveyor system repair, and agitator/gearbox maintenance. Experienced in VFD troubleshooting and programming for process control. Adept in generator servicing, air compressor maintenance, and implementing preventive maintenance programs to minimize unplanned downtime. Combines strong technical knowledge with practical problem-solving to ensure continuous plant operation, improved efficiency, and extended equipment lifespan.
               </p>
 
               {/* Image Gallery */}

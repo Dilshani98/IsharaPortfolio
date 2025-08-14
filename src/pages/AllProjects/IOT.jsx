@@ -30,19 +30,19 @@ export const Project3 = () => {
 
             {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              Machine Output Monotoring System <span className="text-primary"> IOT Based</span>
+              Machine Output Monitoring System <span className="text-primary"> IoT-Based</span>
             </h2>
 
             {/* Description & Gallery */}
             <div className="space-y-6">
-              <h3 className="text-2xl font-semibold">Reactor Project</h3>
+              <h3 className="text-2xl font-semibold">Real-Time Production Tracking for Roofing Sheet Manufacturing</h3>
 
               <p className="text-muted-foreground">
-                --------------------------------------------------------------
+               Developed an IoT system for roofing sheet machines using rotary encoder data, transmitting real-time output to a web app. Enabled fault detection, capacity monitoring, and production optimization to increase overall plant efficiency.
               </p>
 
               <p className="text-muted-foreground">
-                ............................................................................=============
+                Designed and implemented an IoT-based monitoring solution for a roofing sheet manufacturing line. The system collects production data from a rotary encoder and transmits it to a cloud-based web application for real-time tracking. Operators can monitor total output capacity, detect machine faults promptly, and analyze performance trends. This solution improved production planning, reduced downtime, and increased overall manufacturing efficiency. By enabling data-driven decision-making, the system provided better control over production rates and enhanced transparency in the manufacturing process.
               </p>
 
               {/* Image Gallery */}
