@@ -14,6 +14,8 @@ export const Project9 = () => {
     "/projects/waste/5.png",
     "/projects/waste/6.png",
     "/projects/waste/7.png",
+    "/projects/waste/8.png",
+    "/projects/waste/9.png",
   ];
 
   return (
