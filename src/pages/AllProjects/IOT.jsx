@@ -30,7 +30,7 @@ export const Project3 = () => {
 
             {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              Project <span className="text-primary">1</span>
+              Machine Output Monotoring System <span className="text-primary"> IOT Based</span>
             </h2>
 
             {/* Description & Gallery */}

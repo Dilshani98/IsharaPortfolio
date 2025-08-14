@@ -30,7 +30,7 @@ export const Project1 = () => {
 
             {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              Project <span className="text-primary">1</span>
+              1 Ton Reactor Plant<span className="text-primary">Designing and Commissioned</span>
             </h2>
 
             {/* Description & Gallery */}

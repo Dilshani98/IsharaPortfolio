@@ -8,7 +8,7 @@ const projects = [
     description: "1-ton polymer binder reactor plant, including reactor with limpet coil, monomer and catalyst vessels, heat exchanger, steam lines, and electrical layout—achieving improved energy efficiency, faster processing, and enhanced operational control.",
     image: "/projects/Plant.png",
     tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "project1aa",
+    demoUrl: "1treactor",
     githubUrl: "#",
   },
   {
@@ -18,7 +18,7 @@ const projects = [
       "A semi-automatic powder packaging machine with a screw conveyor, PLC control system, and conveyor belt—enhancing packaging efficiency and reducing manual labor by 50%.",
     image: "/projects/blank.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "project2aa",
+    demoUrl: "powder",
     githubUrl: "#",
   },
   {
@@ -28,7 +28,7 @@ const projects = [
       "A high-efficiency binder strainer system to filter out impurities and improve material flow—reducing clogging, minimizing manual intervention, and enhancing overall process reliability and energy efficiency.",
     image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "project3aa",
+    demoUrl: "strainer",
     githubUrl: "#",
   },
   {
@@ -47,7 +47,7 @@ const projects = [
       "Designed and commissioned a powder coating plant to provide durable, high-quality surface finishing for manufactured components. The plant includes preparation, spraying booths, curing ovens, and material handling systems, ensuring efficient workflow and consistent coating quality.",
     image: "/projects/blank.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "project1 copyaa",
+    demoUrl: "powdercoating",
     githubUrl: "#",
   },
   {
@@ -57,7 +57,7 @@ const projects = [
       "Implemented an IoT-based system to monitor real-time performance of sheet metal cutting machines. The system tracks parameters such as run time, downtime, production count, and energy consumption, enabling data-driven maintenance, efficiency optimization, and remote monitoring through a web dashboard.",
     image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "project3aaa",
+    demoUrl: "IOT",
     githubUrl: "#",
   },
   {
@@ -66,7 +66,7 @@ const projects = [
     description: "Designed and implemented a precision sheet metal cutting table that optimized raw material utilization, significantly reducing off-cuts and process waste. The solution improved production efficiency and led to annual cost savings exceeding ₹5 million through reduced material loss and better inventory control.",
     image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "project4aaa",
+    demoUrl: "table",
     githubUrl: "#",
   },
   {
@@ -75,7 +75,7 @@ const projects = [
     description: "An Autonomous Guided Vehicle (AGV) has been developed to support SriLankan Airlines in transporting tools across airport facilities. Equipped with a LiDAR-based navigation and mapping system, the AGV can autonomously travel up to 1 km while carrying loads of up to 100 kg. It features real-time video output for monitoring and processes environmental data to ensure precise navigation and obstacle avoidance.",
     image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "ProjectAGVaa",
+    demoUrl: "AGV",
     githubUrl: "#",
   },
   {
@@ -84,7 +84,7 @@ const projects = [
     description: "A high-speed Delta Robot has been developed for a chocolate factory to sort different types of chocolates based on size, shape, and color. Using advanced image processing, the system accurately identifies each chocolate type and directs them to their designated locations, improving production efficiency and product consistency.",
     image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "project4aaa",
+    demoUrl: "delta",
     githubUrl: "#",
   },
   {
@@ -93,7 +93,7 @@ const projects = [
     description: "Experienced in maintaining and optimizing industrial machinery, ensuring minimal downtime and maximum efficiency. Skilled in preventive and predictive maintenance, troubleshooting mechanical and electrical issues, and coordinating equipment overhauls to keep factory operations running smoothly.",
     image: "/projects/blank.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "project4aaa",
+    demoUrl: "maintain",
     githubUrl: "#",
   },
 ];

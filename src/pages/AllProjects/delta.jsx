@@ -30,12 +30,12 @@ export const Project2 = () => {
 
             {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              Project <span className="text-primary">1</span>
+              Delta Robot <span className="text-primary">1</span>
             </h2>
 
             {/* Description & Gallery */}
             <div className="space-y-6">
-              <h3 className="text-2xl font-semibold">Reactor Project</h3>
+              <h3 className="text-2xl font-semibold">Delta Robot</h3>
 
               <p className="text-muted-foreground">
                 --------------------------------------------------------------

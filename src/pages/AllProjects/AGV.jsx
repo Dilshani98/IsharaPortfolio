@@ -4,7 +4,7 @@ import { ThemeToggle } from "../../components/ThemeToggle";
 import { StarBackground } from "@/components/StarBackground";
 import { Footer } from "../../components/Footer";
 
-export const Project1 = () => {
+export const Project10 = () => {
   // Gallery image paths — replace with your actual images
   const galleryImages = [
     "/projects/1.png",
@@ -30,12 +30,12 @@ export const Project1 = () => {
 
             {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              Project <span className="text-primary">1</span>
+              Automated Guided Vehicle <span className="text-primary"> - For SriLankan Airlines</span>
             </h2>
 
             {/* Description & Gallery */}
             <div className="space-y-6">
-              <h3 className="text-2xl font-semibold">Reactor Project</h3>
+              <h3 className="text-2xl font-semibold">Automated Guided Vehicle</h3>
 
               <p className="text-muted-foreground">
                 --------------------------------------------------------------

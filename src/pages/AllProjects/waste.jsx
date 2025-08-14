@@ -4,7 +4,7 @@ import { ThemeToggle } from "../../components/ThemeToggle";
 import { StarBackground } from "@/components/StarBackground";
 import { Footer } from "../../components/Footer";
 
-export const Project1 = () => {
+export const Project9 = () => {
   // Gallery image paths — replace with your actual images
   const galleryImages = [
     "/projects/waste/1.png",
