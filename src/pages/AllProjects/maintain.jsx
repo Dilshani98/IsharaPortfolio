@@ -35,14 +35,14 @@ export const Project1 = () => {
 
             {/* Description & Gallery */}
             <div className="space-y-6">
-              <h3 className="text-2xl font-semibold">Industrial Plant Maintenance & Optimization Projects</h3>
+              <h3 className="text-2xl font-semibold">Reactor Project</h3>
 
               <p className="text-muted-foreground">
                 --------------------------------------------------------------
               </p>
 
               <p className="text-muted-foreground">
-                ..........
+                ............................................................................=============
               </p>
 
               {/* Image Gallery */}

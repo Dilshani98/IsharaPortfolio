@@ -42,7 +42,7 @@ export const Project1 = () => {
               </p>
 
               <p className="text-muted-foreground">
-                ..........
+                ............................................................................=============
               </p>
 
               {/* Image Gallery */}
