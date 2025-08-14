@@ -88,7 +88,7 @@ const projects = [
     githubUrl: "#",
   },
   {
-    id: 9,
+    id: 10,
     title: "Industrial Plant Maintenance & Optimization Projects",
     description: "Experienced in maintaining and optimizing industrial machinery, ensuring minimal downtime and maximum efficiency. Skilled in preventive and predictive maintenance, troubleshooting mechanical and electrical issues, and coordinating equipment overhauls to keep factory operations running smoothly.",
     image: "/projects/blank.png",
