@@ -8,6 +8,7 @@ export const Project8 = () => {
   // Gallery image paths — replace with your actual images
   const galleryImages = [
     "/projects/table/1.png",
+    "/projects/table/2.png",
   ];
 
   return (
