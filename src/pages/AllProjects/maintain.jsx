@@ -51,6 +51,9 @@ export const Project4 = () => {
               <p className="text-muted-foreground">
                 Proven expertise in the maintenance, troubleshooting, and optimization of diverse industrial systems. Skilled in electrical control panel design and upkeep, furnace oil boiler operation, industrial pump servicing, conveyor system repair, and agitator/gearbox maintenance. Experienced in VFD troubleshooting and programming for process control. Adept in generator servicing, air compressor maintenance, and implementing preventive maintenance programs to minimize unplanned downtime. Combines strong technical knowledge with practical problem-solving to ensure continuous plant operation, improved efficiency, and extended equipment lifespan.
               </p>
+              <p className="text-muted-foreground">
+                My maintenance strategy is structured and risk-focused, ensuring both reliability and efficiency. For critical breakdowns, I perform a Root Cause Analysis (RCA) to identify the underlying issues and prevent recurrence. For planned maintenance, I start by conducting a Failure Mode and Effects Analysis (FMEA) and assigning RSN numbers to track failures. This helps me identify high-risk components that require closer attention. Additionally, I carry out an asset criticality assessment to prioritize maintenance activities based on the importance of each asset. Based on these assessments, I develop a comprehensive maintenance plan that includes Preventive Maintenance (PM), Predictive Maintenance (PDM), and Corrective Maintenance (CM), ensuring optimal asset performance and minimal downtime.
+                </p>
 
               {/* Image Gallery */}
               <div className="grid grid-cols-2 gap-6">
