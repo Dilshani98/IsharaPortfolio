@@ -4,7 +4,7 @@ import { IoLogOutOutline } from "react-icons/io5";
 const projects = [
   {
     id: 1,
-    title: "1 Ton Reactor Plant. - Ongoing",
+    title: "1 Ton Reactor Plant. ",
     description: "1-ton polymer binder reactor plant, including reactor with limpet coil, monomer and catalyst vessels, heat exchanger, steam lines, and electrical layout—achieving improved energy efficiency, faster processing, and enhanced operational control.",
     image: "/projects/Plant.png",
     tags: ["React", "TailwindCSS", "Supabase"],
@@ -13,7 +13,7 @@ const projects = [
   },
   {
     id: 2,
-    title: " Powder Packaging Machine (Screw Conveyor) - Ongoing",
+    title: " Powder Packaging Machine (Screw Conveyor)",
     description:
       "A semi-automatic powder packaging machine with a screw conveyor, PLC control system, and conveyor belt—enhancing packaging efficiency and reducing manual labor by 50%.",
     image: "/projects/blank.png",
@@ -23,7 +23,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "Binder Strainer System - Ongoing",
+    title: "Binder Strainer System ",
     description:
       "A high-efficiency binder strainer system to filter out impurities and improve material flow—reducing clogging, minimizing manual intervention, and enhancing overall process reliability and energy efficiency.",
     image: "/projects/blank.png",
