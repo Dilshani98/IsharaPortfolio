@@ -28,8 +28,7 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I engineer reliable, efficient, and automated systems that drive industrial performance.
-            Specializing in machine development, factory maintenance, and automation, I deliver solutions that reduce downtime and enhance productivity in manufacturing environments.
+            Delivering reliable, efficient, and world-class manufacturing systems that elevate industrial performance. Specializing in machine development, WCM-based maintenance practices, and continuous improvement to reduce downtime, enhance equipment reliability, and drive sustainable productivity in FMCG environments.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
