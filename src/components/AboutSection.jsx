@@ -55,21 +55,15 @@ My core strength lies in applying advanced maintenance strategies to improve equ
 
   
 
-In the field of industrial automation, I have developed and programmed PLCs using platforms including Allen-Bradley, Siemens, Delta, and Mitsubishi, 
-with practical integration using Factory I/O simulation. I am skilled in control panel design, electrical wiring simulation, and electrical panel layout—bridging mechanical and electrical domains. My work also involves IoT systems, combining sensors and controllers for smart monitoring and control.
-
+In the industrial control domain, I have designed and programmed PLC systems using Allen-Bradley, Siemens, Delta, and Mitsubishi platforms, with hands-on simulation experience using Factory I/O. I’m skilled in control panel design, electrical wiring planning, and panel layout—bridging the mechanical and electrical engineering disciplines. My experience also includes deploying IoT-based solutions for smart monitoring, data collection, and performance analytics within manufacturing processes.
 </p>
-My specialization in mechatronics has expanded into robotics and embedded systems, where I’ve built and programmed Arduino-based systems and 
- logic in Python and C++ (OOP). These skills support my ability to create intelligent, real-world automation solutions that blend mechanical and 
- software domains.
+My mechatronics background extends into robotics and embedded systems, where I have built and programmed Arduino-based platforms and worked with Python and C++ (OOP) to create integrated electromechanical solutions.
             <p className="text-muted-foreground">
 
-On the workshop and production side, I bring practical experience in sheet metal fabrication, welding, lathe operations, and CNC programming—skills 
-that allow me to transition smoothly from digital models to physical prototypes and production. I also have direct experience maintaining industrial systems 
-such as steam boilers, air compressors, reactor vessels, agitators, and pump systems.
-
-Additionally, I bring strong project management skills with proficiency in Primavera P6, and a working knowledge of Lean Manufacturing and Six Sigma
- (Yellow Belt certified) principles. I am well-versed in preparing P&ID diagrams and technical documentation using the Microsoft Office Suite.
+On the production side, I bring practical workshop experience in sheet metal fabrication, welding, machining, and CNC programming—allowing me to smoothly transition from digital models to real-world prototypes and industrial components. My FMCG experience also includes supporting continuous improvement initiatives, implementing preventive maintenance systems, and optimizing equipment performance to reduce downtime and enhance production reliability.
+ </p>
+            <p className="text-muted-foreground">
+I also possess strong project management capabilities using Primavera P6, along with working knowledge of Lean Manufacturing and Six Sigma (Yellow Belt). I am proficient in preparing technical documents, P&ID diagrams, and engineering reports with Microsoft Office tools.
  </p>
             <p className="text-muted-foreground">
 
