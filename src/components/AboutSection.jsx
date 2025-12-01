@@ -29,35 +29,26 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Mechanical Engineer - Industrial Automation Enthusiast !
+              Mechanical Engineer - Mechanical Engineer – FMCG Manufacturing & Design Engineer!
             </h3>
 
             <p className="text-muted-foreground">
-              Highly motivated Mechanical Engineer with expertise in industrial automation, preventive maintenance, mechanical troubleshooting,
-              and equipment reliability for critical plant systems, seeking to leverage skills to revolutionize the industry and improve working
-              environments.
+              Highly motivated Mechanical Engineer with strong experience in FMCG manufacturing environments, specializing in preventive maintenance, equipment reliability, industrial systems troubleshooting, and mechanical system optimization. I bring hands-on exposure to maintaining and improving critical plant assets—such as steam boilers, air compressors, reactors, agitators, and pump systems—ensuring high uptime and consistent production performance.
 
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about designing smart, reliable mechanical systems
-              and developing innovative automation solutions that keep factories
-              running efficiently. I’m always learning new technologies in machine
-              development, robotics, and maintenance strategies to stay ahead in
-              the rapidly evolving world of industrial engineering.
+              I’m passionate about engineering smart, reliable mechanical systems and developing innovative solutions that improve safety, efficiency, and long-term asset performance. My interest in modern manufacturing drives me to continuously learn new technologies related to machine design, robotics, product development, and advanced maintenance practices.
                </p>
 
             <p className="text-muted-foreground">
 
 
-              I hold a B.Sc. Degree in Mechanical Engineering from the University of Moratuwa, specializing in the Mechatronics Engineering stream. 
-              This academic foundation has equipped me with a balanced skill set across mechanical systems, electronics, control, and automation technologies.
+              I hold a B.Sc. Degree in Mechanical Engineering from the University of Moratuwa, specializing in Mechatronics Engineering, giving me a balanced skill set across mechanical design, electronics, controls, and industrial technologies.
               </p>
             <p className="text-muted-foreground">    
 
-My core strength lies in machine design, supported by strong command of CAD tools such as SolidWorks and AutoCAD, and FEA simulation using ANSYS. I 
-am also experienced in Aspen Plus/PRO for process modeling and AutoPIPE for piping stress analysis—enabling me to design, simulate, and optimize mechanical
-systems from concept to execution.
+My core strength lies in applying advanced maintenance strategies to improve equipment reliability and maximize plant uptime in FMCG environments. I specialize in preventive, predictive, and condition-based maintenance, using structured methods to reduce failures and extend asset life. Alongside this, I bring strong capabilities in mechanical design with SolidWorks and AutoCAD, supported by FEA simulation in ANSYS, and process analysis using Aspen Plus/PRO and AutoPIPE. I incorporate World Class Manufacturing (WCM) principles, hygiene engineering requirements, and strict industrial safety standards into every maintenance and engineering activity—ensuring machinery operates safely, efficiently, and in compliance with both operational and regulatory expectations.
 </p>
 
             <p className="text-muted-foreground">
