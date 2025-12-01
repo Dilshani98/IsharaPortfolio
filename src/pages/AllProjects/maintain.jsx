@@ -35,44 +35,80 @@ export const Project4 = () => {
               </a>
             </div>
 
-            {/* Title */}
+           {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              Maintenance Engineer | FMCG & Industrial Manufacturing | Mechanical Engineering Specialist <span className="text-primary"></span>
+              Maintenance Engineer | FMCG & Industrial Manufacturing | Mechanical Engineering Specialist
             </h2>
 
             {/* Description & Gallery */}
             <div className="space-y-6">
-              <h3 className="text-2xl font-semibold">Comprehensive Mechanical, Electrical, and Control Systems Skills</h3>
+              <h3 className="text-2xl font-semibold">Skills & Expertise Summary</h3>
 
-              <p className="text-muted-foreground">
-                I am a Mechanical Engineer with strong hands-on maintenance experience across FMCG and process-plant environments. I specialise in preventive and corrective maintenance, fault-finding, and reliability improvement of high-speed production equipment. My background includes working with pumps, reactors, utility systems, and automated packaging machinery to maintain safe, efficient, and continuous plant operation.</p>
+              {/* Bullet Points */}
+              <ul className="list-disc pl-6 space-y-3 text-muted-foreground">
+                <li>Mechanical Engineer with strong hands-on maintenance experience across FMCG and process-plant environments.</li>
+                <li>Specialised in preventive and corrective maintenance, fault-finding, and reliability improvement of high-speed production machinery.</li>
+                <li>Experienced with pumps, reactors, utilities, packaging lines, and automated machinery.</li>
+              </ul>
 
-              <p className="text-muted-foreground">
-               I have practical expertise with FMCG production equipment including lobe pumps, vacuum pumps, gear pumps, high-speed fillers, POSIMAT unscramblers, NORDEN tube filling machines, and Cobotizur robotic pick-and-place arms. I routinely diagnose mechanical failures, replace worn components, align rotating equipment, and optimise machine performance to reduce downtime. </p>
-              <p className="text-muted-foreground">
-               Preventive Maintenance (PM) & Reliability: Developing and executing PM schedules, performing routine inspections, and using a reliability-focused approach to minimise breakdowns.
+              <h3 className="text-xl font-semibold">FMCG Machinery Expertise</h3>
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                <li>Lobe pumps, vacuum pumps, and gear pumps.</li>
+                <li>High-speed fillers, POSIMAT unscramblers, and NORDEN tube filling machines.</li>
+                <li>Cobotizur robotic pick-and-place handling systems.</li>
+                <li>Conveyors, dosing systems, and general packaging-line equipment.</li>
+              </ul>
 
-</p>
-              <p className="text-muted-foreground">Mechanical Systems Expertise: Maintenance of hydraulic and pneumatic systems, bearings, seals, valves, couplings, gearboxes, mixers, and rotating machinery.
+              <h3 className="text-xl font-semibold">Mechanical Maintenance Skills</h3>
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                <li>Diagnosing mechanical failures and performing repairs.</li>
+                <li>Replacing worn components, aligning rotating equipment, and restoring optimal machine performance.</li>
+                <li>Interpreting engineering drawings, P&IDs, and equipment manuals.</li>
+              </ul>
 
-</p>
-              <p className="text-muted-foreground">High-Speed FMCG Equipment: Troubleshooting/repair of conveyors, packaging lines, dosing/filling systems, and automated assembly equipment.
+              <h3 className="text-xl font-semibold">Preventive & Reliability Maintenance</h3>
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                <li>Developing and executing PM schedules.</li>
+                <li>Conducting regular inspections and monitoring equipment health.</li>
+                <li>Applying reliability-focused strategies to minimise breakdowns.</li>
+              </ul>
 
-</p>
-              <p className="text-muted-foreground">Maintenance Documentation & CMMS: Maintaining accurate service records, logging work orders, and using CMMS systems for planning, scheduling, and tracking maintenance tasks.
+              <h3 className="text-xl font-semibold">Hydraulics, Pneumatics & Rotating Equipment</h3>
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                <li>Maintenance of hydraulic and pneumatic systems.</li>
+                <li>Servicing bearings, seals, valves, couplings, mixers, and gearboxes.</li>
+                <li>Performing mechanical rebuilds and overhauls.</li>
+              </ul>
 
-</p>
-              <p className="text-muted-foreground">Plant Utilities Knowledge: Experience with boilers, compressors, chilled water systems, vacuum systems, and process-equipment support services.
+              <h3 className="text-xl font-semibold">Maintenance Documentation & CMMS</h3>
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                <li>Creating and closing work orders.</li>
+                <li>Tracking maintenance history and service logs.</li>
+                <li>Using CMMS for planning and scheduling maintenance activities.</li>
+              </ul>
 
-</p>
-              <p className="text-muted-foreground">Safety & Compliance: Strong knowledge of industrial safety procedures, lockout–tagout, hazard identification, risk assessment, confined-space and height-work awareness, and safe mechanical isolation.
+              <h3 className="text-xl font-semibold">Plant Utilities Knowledge</h3>
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                <li>Boilers and steam systems.</li>
+                <li>Air compressors and vacuum systems.</li>
+                <li>Chilled water systems and process support equipment.</li>
+              </ul>
 
-</p>
-              <p className="text-muted-foreground">Technical Communication: Ability to interpret engineering drawings, P&IDs, equipment manuals, and communicate effectively with production teams, contractors, and management.
+              <h3 className="text-xl font-semibold">Safety & Compliance</h3>
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                <li>Strict adherence to Lockout–Tagout (LOTO) procedures.</li>
+                <li>Hazard identification and risk assessment.</li>
+                <li>Confined space and height-work awareness.</li>
+                <li>Safe mechanical isolation and compliance with industrial safety standards.</li>
+              </ul>
 
-</p>
-              <p className="text-muted-foreground">Hands-On Diagnostic Skills: Mechanical troubleshooting, vibration/sound-based diagnosis, root cause analysis (RCA), and rapid breakdown response.</p>
-
+              <h3 className="text-xl font-semibold">Technical Communication & Diagnostics</h3>
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                <li>Clear communication with production, engineering, and contractors.</li>
+                <li>Breakdown reporting and documentation.</li>
+                <li>Vibration/sound-based troubleshooting and RCA (Root Cause Analysis).</li>
+                <li>Fast and effective breakdown response.</li>
+              </ul>
               {/* Image Gallery */}
               <div className="grid grid-cols-2 gap-6">
                 {galleryImages.map((src, index) => (
