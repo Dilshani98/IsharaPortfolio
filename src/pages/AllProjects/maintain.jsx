@@ -37,7 +37,7 @@ export const Project4 = () => {
 
             {/* Title */}
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              Industrial Machinery Maintenance & Troubleshooting Expertise <span className="text-primary"></span>
+              Maintenance Engineer | FMCG & Industrial Manufacturing | Mechanical Engineering Specialist <span className="text-primary"></span>
             </h2>
 
             {/* Description & Gallery */}
@@ -45,15 +45,33 @@ export const Project4 = () => {
               <h3 className="text-2xl font-semibold">Comprehensive Mechanical, Electrical, and Control Systems Skills</h3>
 
               <p className="text-muted-foreground">
-                Extensive hands-on experience in maintaining and troubleshooting industrial machinery, including electrical control panels, cyclones, boilers, pumps, conveyors, agitators, gearboxes, VFDs, generators, and air compressors, ensuring high plant reliability and minimal downtime.
-              </p>
+                I am a Mechanical Engineer with strong hands-on maintenance experience across FMCG and process-plant environments. I specialise in preventive and corrective maintenance, fault-finding, and reliability improvement of high-speed production equipment. My background includes working with pumps, reactors, utility systems, and automated packaging machinery to maintain safe, efficient, and continuous plant operation.</p>
 
               <p className="text-muted-foreground">
-                Proven expertise in the maintenance, troubleshooting, and optimization of diverse industrial systems. Skilled in electrical control panel design and upkeep, furnace oil boiler operation, industrial pump servicing, conveyor system repair, and agitator/gearbox maintenance. Experienced in VFD troubleshooting and programming for process control. Adept in generator servicing, air compressor maintenance, and implementing preventive maintenance programs to minimize unplanned downtime. Combines strong technical knowledge with practical problem-solving to ensure continuous plant operation, improved efficiency, and extended equipment lifespan.
-              </p>
+               I have practical expertise with FMCG production equipment including lobe pumps, vacuum pumps, gear pumps, high-speed fillers, POSIMAT unscramblers, NORDEN tube filling machines, and Cobotizur robotic pick-and-place arms. I routinely diagnose mechanical failures, replace worn components, align rotating equipment, and optimise machine performance to reduce downtime. </p>
               <p className="text-muted-foreground">
-                My maintenance strategy is structured and risk-focused, ensuring both reliability and efficiency. For critical breakdowns, I perform a Root Cause Analysis (RCA) to identify the underlying issues and prevent recurrence. For planned maintenance, I start by conducting a Failure Mode and Effects Analysis (FMEA) and assigning RSN numbers to track failures. This helps me identify high-risk components that require closer attention. Additionally, I carry out an asset criticality assessment to prioritize maintenance activities based on the importance of each asset. Based on these assessments, I develop a comprehensive maintenance plan that includes Preventive Maintenance (PM), Predictive Maintenance (PDM), and Corrective Maintenance (CM), ensuring optimal asset performance and minimal downtime.
-                </p>
+               Preventive Maintenance (PM) & Reliability: Developing and executing PM schedules, performing routine inspections, and using a reliability-focused approach to minimise breakdowns.
+
+</p>
+              <p className="text-muted-foreground">Mechanical Systems Expertise: Maintenance of hydraulic and pneumatic systems, bearings, seals, valves, couplings, gearboxes, mixers, and rotating machinery.
+
+</p>
+              <p className="text-muted-foreground">High-Speed FMCG Equipment: Troubleshooting/repair of conveyors, packaging lines, dosing/filling systems, and automated assembly equipment.
+
+</p>
+              <p className="text-muted-foreground">Maintenance Documentation & CMMS: Maintaining accurate service records, logging work orders, and using CMMS systems for planning, scheduling, and tracking maintenance tasks.
+
+</p>
+              <p className="text-muted-foreground">Plant Utilities Knowledge: Experience with boilers, compressors, chilled water systems, vacuum systems, and process-equipment support services.
+
+</p>
+              <p className="text-muted-foreground">Safety & Compliance: Strong knowledge of industrial safety procedures, lockout–tagout, hazard identification, risk assessment, confined-space and height-work awareness, and safe mechanical isolation.
+
+</p>
+              <p className="text-muted-foreground">Technical Communication: Ability to interpret engineering drawings, P&IDs, equipment manuals, and communicate effectively with production teams, contractors, and management.
+
+</p>
+              <p className="text-muted-foreground">Hands-On Diagnostic Skills: Mechanical troubleshooting, vibration/sound-based diagnosis, root cause analysis (RCA), and rapid breakdown response.</p>
 
               {/* Image Gallery */}
               <div className="grid grid-cols-2 gap-6">
